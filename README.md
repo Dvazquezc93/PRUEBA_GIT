@@ -1,6 +1,6 @@
  CalculadoraJava
 
-# Hoal como estas? pa ti mi cola
+#estas como hoal? cangrejo mastubador
 
 Proyecto de ejemplo: calculadora simple en Java.
 
