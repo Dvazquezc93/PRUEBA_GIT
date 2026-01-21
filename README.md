@@ -1,6 +1,6 @@
  CalculadoraJava
 
-# Hoal como estas?
+# Hoal como estas? pa ti mi cola
 
 Proyecto de ejemplo: calculadora simple en Java.
 
